@@ -1,0 +1,12 @@
+首先需要装pyqt5
+直接pip install PyQt5.
+
+弄个hello-world试试水
+可以。
+然后可以打代码了。运行如下。
+
+
+这个过程多么愉快！
+
+个人主页网址在此：https://zoeyishere.github.io/ 
+
